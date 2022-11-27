@@ -1,0 +1,1 @@
+This is my first website published here, I hope you find it cool. I used a spatial 8bit theme on it, all the pixelart was made by me. I also put a JavaScript game on it, using Flappy Bird's programming logic. For play click in button "clique aqui para decolar".

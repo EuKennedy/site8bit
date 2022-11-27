@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&family=VT323&display=swap');
+
+body{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    font-family: 'VT323', monospace;
+}
+
+.fim{
+    text-align: center;
+}
+
+.game{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#btn_again{
+    
+    border-radius: 15px;
+    font-weight: bolder;
+    color: black;
+    background-color: white;
+}
+
+#btn_again:hover{
+
+    cursor: pointer;
+    transition: 2s;
+    background-color: rgb(18, 138, 125)
+
+}
+ 
